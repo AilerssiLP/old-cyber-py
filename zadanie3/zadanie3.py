@@ -90,26 +90,6 @@ def pokusicek2(text):
 
 
 
-
-""" def pokusicek2(text):
-    vadim=""
-    a=0
-    d=a
-    suka="pokusik"
-    vadim=vadim+suka
-    #print("je to list text"+vadim)
-    text1 = (text + "/").split("/")
-    if len(text1) > 2:
-        return "home/" + text
-    debuger=""
-    a=3
-    d=a
-    suka="stop him"
-    vadim=vadim+suka
-    #print("je to list text"+vadim)
-    return f"{pouzivatelia.folder}/{''.join(text1[:-1:])}" """
-
-
 ##list    
 ##--------------------------------------------------------------##
 
@@ -203,52 +183,9 @@ class pouzivatelia(object):
 
     meno = user
 
-##tryer 
-##--------------------------------------------------------------##
 
-
-
-#postup preto je klasika 4 je citaj
-
-
-#they do be looking dumb
-
-
-#postup preto je klasika 2 je pis
-
-
-#reeeeeeeeeeeeeeee
-
-
-#postup preto je klasika 5 je prava a citaj
-
-
-#they do be looking numb
-
-
-#postup preto je klasika 1 je prava
-
-
-#they do be looking dumb
-
-
-#postup preto je klasika 6 je citaj a pis
-
-
-#they do be looking dumb
-
-
-#postup preto je klasika 7 je vsetko spolu
-
-
-#0 bude ze nist
-
-#they do be looking dumb
 
 prikazky = ["mkdir", "cd", "chown", "zapis", "ls", "quit", "touch", "rm", "chmod", "vypis", "spusti"]
-
-
-##prazdna premena
 
 
 
